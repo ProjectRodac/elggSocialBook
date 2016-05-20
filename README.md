@@ -7,7 +7,7 @@ S obzirom da se core datoteke frameworka ne bi trebale izmjenjivati cjelokupan r
 Temeljne funkcionalnosti društvene mreže odlučili smo preuzeti od najpopularnijih društvenih mreža na tržištu (Facebook/Twitter/IMDB).
 
 ====
-Pogledaj upute za korisnika -> Upute za korisnika SocialBook.pdf
+Pogledaj upute za korisnika -> [Upute za korisnika](Upute za korisnika SocialBook.pdf)
 
 Landing page
 ====
