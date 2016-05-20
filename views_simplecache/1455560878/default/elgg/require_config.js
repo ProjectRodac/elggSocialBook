@@ -1,0 +1,1 @@
+require={"baseUrl":"http://localhost/elgg-2.0.1/cache/1455560878/default/","paths":{"jquery.tag-it":["http://localhost/elgg-2.0.1/mod/tag_tools/vendors/jquery/tag_it/js/tag-it.min"]},"shim":{"jquery.ui.autocomplete.html":{"deps":["jquery-ui"]},"ckeditor":{"exports":"CKEDITOR"},"jquery.ckeditor":{"deps":["jquery","ckeditor"],"exports":"jQuery.fn.ckeditor"}},"waitSeconds":20};
