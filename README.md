@@ -5,6 +5,21 @@ Osnovni cilj projektnog rada je kreirati društvenu mrežu koja služi za okuplj
 Temeljne funkcionalnosti društvene mreže odlučili smo preuzeti od najpopularnijih društvenih mreža na tržištu (Facebook/Twitter/IMDB).
 
 ====
-Pogledaj upute za korisnika s slikama ekrana --> Upute za korisnika SocialBook.pdf
+Pogledaj upute za korisnika -> Upute za korisnika SocialBook.pdf
 
+Landing page
+====
+![alt tag](https://github.com/ProjectRodac/elggSocialBook/blob/master/images/Landing.PNG)
+LiveFeed
+====
+![alt tag](https://github.com/ProjectRodac/elggSocialBook/blob/master/images/livefeed.PNG)
+Notifikacije
+====
+![alt tag](https://github.com/ProjectRodac/elggSocialBook/blob/master/images/notification.PNG)
+Editiranje profila
+====
+![alt tag](https://github.com/ProjectRodac/elggSocialBook/blob/master/images/editAvatar.PNG)
+Inbox
+====
+![alt tag](https://github.com/ProjectRodac/elggSocialBook/blob/master/images/inbox.PNG)
 
